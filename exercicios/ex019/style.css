@@ -1,0 +1,71 @@
+@charset "UTF-8"
+
+* {
+
+}
+
+body {
+    font: 1em arial, helvetica, sans-serif;
+    background-color: #665009;
+}
+
+header {
+    background-image: linear-gradient( to top, #f8c162, #f8b848,#EEB656 ) ;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px #00000042;
+}
+h1{
+    color: rgb(46, 29, 3);
+    text-shadow: 1px 1px 1px #0000006e;
+    font-weight: 900;
+   
+}
+nav {
+    background-color:#665009; 
+    box-shadow: 3px 3px 2px 0px #00000070;
+    text-align: right;
+    padding:2px;
+}
+nav > a {
+    text-decoration: none;
+    color: #ffffff ;
+    font-weight: bolder;
+    margin-right:25px
+}
+nav > a:hover {
+    text-decoration: underline;
+    color:#665009;
+    background-color: white;
+}
+main {
+    background-color: #EEB656;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px #00000042;
+}
+footer {
+    color: white;
+    background-color: #5e4822 ;
+    font-size: 11px;
+    text-align: center;
+    margin: 10px;
+    padding: 05px;
+}
+/*
+     width: 300px;
+     height: 50px;
+     background-color: lightgray;
+     border-width: 20px;
+     border-style: solid;
+     border-color: rgb(252, 125, 125);
+      as tres border acima formam uma shorgands seguindo a mesma sequência disposta acima. e com a tag border
+     padding: 20px;
+     outline-width: 30px;
+     outline-style: solid;
+     outline-color: rgb(111, 111, 252);
+     /* Os tres outline ligeiramente acima, forma uma shortgands na mesma sequência disposta. e a tag é outline
+     margin: 50px 
+     */

@@ -1,0 +1,57 @@
+@charset "UTF-8"
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@font-face {
+    font-family: ;
+    src: url(The Blacklight.ttf) format('truetype')
+} 
+        /*tipos de format()
+        -opentype(otf)
+        -truetype(ttf)
+        -embedded-opentype
+        -tryetype-aat (apple advanced typography)
+        -svg
+        */
+        /* font- style/weight/size/family
+        */
+       
+
+}
+body{
+    
+
+
+}
+h1 {
+    font-family: 'The Blacklight.ttf';
+
+}
+h2{
+ font-family: 'Staatliches', cursive, sans-serif;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(119, 115, 98);
+   
+
+
+}
+.ultimo{
+    background-color: #796851;.
+}
+.link{
+    background-color: #1f1803;
+   
+
+}
+a{
+    color: white;
+    font-family: 'The Blacklight.ttf';
+    font-weight: lighter;
+    text-decoration: none;
+    font-size: 1em;
+}
+a:hover{
+    text-decoration: underline;
+    background-color: rgb(243, 128, 20);
+    color: black;
+}
